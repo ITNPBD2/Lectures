@@ -10,3 +10,6 @@
 ### Advanced
 - [Project Eular](https://www.hackerrank.com/contests/projecteuler/challenges)
 - [GeeksforGeeks](http://www.geeksforgeeks.org/)
+
+### Regex
+- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
