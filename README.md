@@ -1,8 +1,8 @@
 ## Lectures
-- [Dictionary and Tuples](DictionaryTuples.ipynb)
-- [Functions](Functions.ipynb)
-- [File I/O](FileIO.ipynb)
-- [Regular Expressions](RegularExpressions.ipynb)
+- [Dictionary and Tuples](http://nbviewer.jupyter.org/github/ITNPBD2/Lectures/blob/master/DictionaryTuples.ipynb)
+- [Functions](http://nbviewer.jupyter.org/github/ITNPBD2/Lectures/blob/master/Functions.ipynb)
+- [File I/O](http://nbviewer.jupyter.org/github/ITNPBD2/Lectures/blob/master/FileIO.ipynb)
+- [Regular Expressions](http://nbviewer.jupyter.org/github/ITNPBD2/Lectures/blob/master/RegularExpressions.ipynb)
 
 ## Resources for learning Python/Programming
 
