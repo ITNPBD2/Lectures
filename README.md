@@ -1,4 +1,10 @@
-# Resources for learning Python/Programming
+## Lectures
+- [Dictionary and Tuples](DictionaryTuples.ipynb)
+- [Functions](Functions.ipynb)
+- [File I/O](FileIO.ipynb)
+- [Regular Expressions](RegularExpressions.ipynb)
+
+## Resources for learning Python/Programming
 
 ### Beginners
 - [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
