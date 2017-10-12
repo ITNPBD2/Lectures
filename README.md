@@ -3,6 +3,7 @@
 - [Functions](http://nbviewer.jupyter.org/github/ITNPBD2/Lectures/blob/master/Functions.ipynb)
 - [File I/O](http://nbviewer.jupyter.org/github/ITNPBD2/Lectures/blob/master/FileIO.ipynb)
 - [Regular Expressions](http://nbviewer.jupyter.org/github/ITNPBD2/Lectures/blob/master/RegularExpressions.ipynb)
+- [Data Representation 1: Tabular, relational & JSON](http://nbviewer.jupyter.org/github/ITNPBD2/Lectures/blob/master/DataRepresentationTabularRelation.ipynb)
 
 ## Resources for learning Python/Programming
 
