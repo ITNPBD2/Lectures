@@ -1,0 +1,11 @@
+{
+"name": "Fluffy",
+"age": 2,
+"clawstrimmed": true,
+"friends": ["Spot", "Bob",
+"Mr. Meow"],
+"address": {
+"number": "4a",
+"street": "Felix Street"
+}
+}
